@@ -1,0 +1,50 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,102,9,0.7357317927170868) 0%, rgba(255,194,0,0.2595413165266106) 100%);
+    
+}
+h1{
+    text-align: center;
+  
+}
+fieldset{
+    background-color:blanchedalmond;
+    width: 450px;
+    height:22cm;
+    font-size: 30px;
+    border-radius: 10%;
+    border: 1px solid rgb(255,232,57);
+    margin: 0 auto;
+    
+
+    
+    
+    
+}
+button{
+    background-color:brown;
+    padding: 10px 20px;
+    border: rgb(254,30,20);
+    cursor: pointer;
+    margin: 0 auto;
+    color: aliceblue;
+    
+    
+}
+
+input{
+    width: 400px;
+    height: 27px;
+    
+}
+#Comentarios{
+    height: 100px;
+}
+legend{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+

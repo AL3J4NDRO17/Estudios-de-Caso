@@ -1,0 +1,76 @@
+#a{
+    width: 13cm;
+}
+#b{
+    width: 13cm;
+}
+#c{
+    width: 13cm;
+}
+#d{
+    width: 13cm;
+}
+#e{
+    width: 13cm;
+}
+#f{
+    width: 13cm;
+}
+select{
+    height: 20px;
+    border-radius:30%;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,120,121,0.7357317927170868) 0%, rgba(0,159,255,0) 100%);
+    
+}
+h1{
+    text-align: center;
+  
+    
+}
+input{
+   
+    height: 27px;
+    
+   
+
+    
+}
+
+fieldset{
+    background-color:lightblue;
+    width:500px;
+    height:26cm;
+    font-size: 30px;
+    border-radius: 10%;
+    border: 1px solid rgba(2,0,36,1);
+    margin: auto;  
+    
+    
+}
+button{
+    background-color:brown;
+    padding: 10px 20px;
+    border: rgb(254,30,20);
+    cursor: pointer;
+    margin: 0 auto;
+    color: aliceblue;
+    
+    
+}
+
+
+h2{
+    font-size: 30px;
+}
+    
+
+legend{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
